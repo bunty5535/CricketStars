@@ -1,2 +1,2 @@
 # CricketStars
-Website to for CricketLover
+Website Devloped for Cricket Statistics, Analysis and Score Calculation.
